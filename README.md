@@ -1,5 +1,13 @@
 # MechaCar_Statistical_Analysis
 
+## Overview
+
+Utilizing R, the datasets for MechaCar are visualized in basic plots and statistical tests (T-Test, linear regression) for an in-depth analysis of the given dataset.
+
+- dplyr library
+- R studio
+- tidyverse
+
 ## Linear Regression to Predict MPG
 
 Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?

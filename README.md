@@ -84,7 +84,4 @@ Write a short description of a statistical study that can quantify how the Mecha
 
 In your description, address the following questions:
 
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+The next metrics to test will be, in order: safety rating, city fuel efficiency, highway fuel efficiency, horsepower, maintenance cost, cost, and car color. The first three in particular addresses some pivotal interests of customers: its safety, as well as its efficiency in urban and suburban locations, especially as global awareness of fuel usage becomes important in our time.  The null hypothesis would be that the mean of safety ratitng is 0; the alternative, that the safety rating is not 0. Multiple linear regression statistical summary will be used to analyze how the different variables impact safety ratings as well as efficiency for MechaCar.  Data on these measurements and random samples will be required to run the datset through the necessary analysis.
